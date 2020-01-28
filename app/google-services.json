@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953320784808",
+    "firebase_url": "https://bookbuddy76445.firebaseio.com",
+    "project_id": "bookbuddy76445",
+    "storage_bucket": "bookbuddy76445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953320784808:android:ba8cb3142be3ec79",
+        "android_client_info": {
+          "package_name": "luhar.sohil.bookbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953320784808-g5glh2ns87n9l8em71dggqv4s4i2e7ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "luhar.sohil.bookbuddy",
+            "certificate_hash": "88e0bc918f31f15f0dd07ba14b3c99ca30fab6f4"
+          }
+        },
+        {
+          "client_id": "953320784808-j9e3llev1bumolmjcbdebgblc5vbj8s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuB5JEPQsB7yu0NcukziYIJCQqvNUZi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953320784808-j9e3llev1bumolmjcbdebgblc5vbj8s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
